@@ -1,0 +1,204 @@
+
+
+/* Start:/local/templates/materik_2024/components/bitrix/catalog.section.list/brands_list_2024/style.css?1742197400489*/
+.brands-list.js-brands-slider {
+  margin: 20px 0;
+}
+.brands-slider-element {text-align:center}
+.brands-slider-picture {
+  border: 1px silver solid;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 5px;
+  min-height: 130px;
+  text-align: center;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+.brands-slider-picture_img {
+  max-height: 110px;
+  min-height: 100px;
+}
+.brands-slider-text {
+    text-decoration: none;
+}
+
+/* End */
+
+
+/* Start:/local/templates/materik_2024/components/pvp/property.tab.filter/default_2024/style.css?1742197400223*/
+.pvp-property-tab-filter {
+    background: rgba(233, 235, 238, 0.5);
+    padding-bottom: 30px;
+}
+
+.best-offer .pvp-property-tab-filter{
+	background: none;
+}
+
+.best-offer .best-offer__more-btn{
+	font-size: 14px;
+}
+/* End */
+
+
+/* Start:/local/templates/materik_2024/components/pvp/slider/default_2024/style.css?17421974001856*/
+/* Slider */
+.slick-slider
+{
+    position: relative;
+
+    display: block;
+    box-sizing: border-box;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+/* End */
+
+
+/* Start:/local/templates/materik_2024/components/pvp/slider/default_2024/bitrix/catalog.section/slider/style.css?1742197400434*/
+.slider-arFilter .white-nav-prev,
+.slider-arFilter .white-nav-next {
+    position: absolute;
+    top: 50%;
+    margin-top: -28px;
+}
+.slider-arFilter .white-nav-prev {
+    left: 30px;
+}
+.slider-arFilter .white-nav-next {
+    right: 30px;
+}
+.products__mobile-btn.products__desktop-btn {
+    display: block;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.products__slider.pvp-slider-wrap {
+    margin-top: 17px;
+}
+
+/* End */
+
+
+/* Start:/local/templates/materik_2024/components/bitrix/catalog.item/.default/style.min.css?1742197400353*/
+@media screen and (max-width:669px){.product-card-new__favourite{display:inherit}}.product-card-new .btn--card-form.btn_add_basket.in_basket,.product-card-new .btn_add_basket.in_basket,.product-card-new .product-card-form__btn.btn_add_basket.in_basket,.product-card-new:hover .btn--card-form.btn_add_basket{background-color:#1bb934;border-color:#1bb934}
+/* End */
+/* /local/templates/materik_2024/components/bitrix/catalog.section.list/brands_list_2024/style.css?1742197400489 */
+/* /local/templates/materik_2024/components/pvp/property.tab.filter/default_2024/style.css?1742197400223 */
+/* /local/templates/materik_2024/components/pvp/slider/default_2024/style.css?17421974001856 */
+/* /local/templates/materik_2024/components/pvp/slider/default_2024/bitrix/catalog.section/slider/style.css?1742197400434 */
+/* /local/templates/materik_2024/components/bitrix/catalog.item/.default/style.min.css?1742197400353 */
