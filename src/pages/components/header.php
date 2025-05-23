@@ -22,8 +22,6 @@
     <link href="css/component_styles.css" type="text/css"  rel="stylesheet" />
     <link href="css/styles.css" type="text/css"  data-template-style="true" rel="stylesheet" />
 
-    <link rel="stylesheet" href="css/main.css?v=<?=time();?>" type="text/css">
-
 
     <!-- Yandex.Metrika counter -->
 
@@ -1404,61 +1402,61 @@
                                 <ul class="chapters__list">
                                     <li class="chapters__item">
                                         <a href="/shop/stroitelnye-materialy/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/b45/sqbrriau4owhl6mstg2t0hwouj4dnec3.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/sqbrriau4owhl6mstg2t0hwouj4dnec3.svg');"></i>
                                             <span class="chapters__link-text">Строительные материалы</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/pilomaterialy/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/73a/2tbsxncva9zr39chxfrbp8kus1fdfvcd.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/2tbsxncva9zr39chxfrbp8kus1fdfvcd.svg');"></i>
                                             <span class="chapters__link-text">Пиломатериалы</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/otdelochnye-materialy/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/364/t5ncixtdlyk017vl1zs0lptjvflro9a8.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/t5ncixtdlyk017vl1zs0lptjvflro9a8.svg');"></i>
                                             <span class="chapters__link-text">Отделочные материалы</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/lakokrasochnye-materialy/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/cea/4biv88kpzhg5e3euz1gryy87ft1c015s.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/4biv88kpzhg5e3euz1gryy87ft1c015s.svg');"></i>
                                             <span class="chapters__link-text">Лакокрасочные материалы</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/dveri-i-furnitura/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/b3c/ssbkp73uqs664h1as8xazg3rz980r77a.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/ssbkp73uqs664h1as8xazg3rz980r77a.svg');"></i>
                                             <span class="chapters__link-text">Двери и фурнитура</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/instrument-i-oborudovanie/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/3ce/an4lqae58rz6t3fok2rcay6pawla3c8b.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/an4lqae58rz6t3fok2rcay6pawla3c8b.svg');"></i>
                                             <span class="chapters__link-text">Инструмент и оборудование</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/elektrika-i-osveshchenie/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/f5c/g7repxogw7d9zn1tub0ni047hdtyf0v0.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/g7repxogw7d9zn1tub0ni047hdtyf0v0.svg');"></i>
                                             <span class="chapters__link-text">Электрика и освещение</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/krovlya-i-vodostochnye-sistemy/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/731/5vhsv3r7vgr721w94k4a5onqadqocxr5.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/5vhsv3r7vgr721w94k4a5onqadqocxr5.svg');"></i>
                                             <span class="chapters__link-text">Кровля и водосточные системы</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/santekhnika-otoplenie-i-ventilyatsiya/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/700/8dotaj2jhehir7g3lpg7zf2omvo676wu.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/8dotaj2jhehir7g3lpg7zf2omvo676wu.svg');"></i>
                                             <span class="chapters__link-text">Сантехника, отопление и вентиляция</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/shop/blagoustroystvo/" class="chapters__link j-chapters-link ">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/d8d/sbj7ujp2ib3xhkt57a4x9xc29m43yvse.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/sbj7ujp2ib3xhkt57a4x9xc29m43yvse.svg');"></i>
                                             <span class="chapters__link-text">Благоустройство</span>
                                         </a>
                                     </li>
@@ -1469,55 +1467,55 @@
                                 <ul class="chapters__list">
                                     <li class="chapters__item">
                                         <a href="/technology/peregorodka_iz_gkl_na_metallicheskom_profile/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/017/je8nl0lyd0mfc16jrsjcd8upr3aqpkgs.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/je8nl0lyd0mfc16jrsjcd8upr3aqpkgs.svg');"></i>
                                             <span class="chapters__link-text">Перегородка из ГКЛ на металлическом профиле</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/odnosloynaya_oblitsovka_gipsokartonom_po_kleyu/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/5fd/3qxxdde3qv22ionyqbbwxo4s8lyfym13.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/3qxxdde3qv22ionyqbbwxo4s8lyfym13.svg');"></i>
                                             <span class="chapters__link-text">Облицовка ГКЛ по клею</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/ustroystvo_potolkov/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/9f3/qifh8a4in61zi3m6nu3rhgl1b0ql1mnz.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/qifh8a4in61zi3m6nu3rhgl1b0ql1mnz.svg');"></i>
                                             <span class="chapters__link-text">Устройство подвесных потолков</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/dveri_i_dvernye_proyemy/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/519/kt792ornn7yhal1681upi1boilwttabn.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/kt792ornn7yhal1681upi1boilwttabn.svg');"></i>
                                             <span class="chapters__link-text">Двери и дверные проёмы</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/zabory_i_ograzhdeniya/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/ba9/wkwg9ewv36g22752n2fo7jc3xn98oy1k.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/wkwg9ewv36g22752n2fo7jc3xn98oy1k.svg');"></i>
                                             <span class="chapters__link-text">Заборы и ограждения</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/skatnaya_krovlya/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/7eb/2nmjxpjthaoknfgktlzzptc979rkn0vj.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/2nmjxpjthaoknfgktlzzptc979rkn0vj.svg');"></i>
                                             <span class="chapters__link-text">Скатная кровля</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/otoplenie_vodyanoe/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/92f/cmdpp2x0f9aqm4via4vueah0i5xksj9e.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/cmdpp2x0f9aqm4via4vueah0i5xksj9e.svg');"></i>
                                             <span class="chapters__link-text">Отопление водяное</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/oborudovanie_elektricheskogo_shchitka/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/7fb/3924hw0c63g65jltv65fjdbas3kpchjp.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/3924hw0c63g65jltv65fjdbas3kpchjp.svg');"></i>
                                             <span class="chapters__link-text">Оборудование электрического щитка</span>
                                         </a>
                                     </li>
                                     <li class="chapters__item">
                                         <a href="/technology/obshivka_sten_i_potolkov_panelyami_pvkh/" class="chapters__link j-chapters-link j-chapters-link--tech">
-                                            <i class="chapters__icon" style="background-image: url('/upload/uf/5d4/3e1qhrfssp2g9lbxpvcbx018dlovtwdr.svg');"></i>
+                                            <i class="chapters__icon" style="background-image: url('img/3e1qhrfssp2g9lbxpvcbx018dlovtwdr.svg');"></i>
                                             <span class="chapters__link-text">Обшивка стен и потолков панелями ПВХ</span>
                                         </a>
                                     </li>
