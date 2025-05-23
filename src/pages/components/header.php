@@ -48,7 +48,13 @@
 
     <!-- [ START ] Скрипты библиотек-->
 
-
+    <script  src="js/protobuf.min.js"></script>
+    <script  src="js/model.min.js"></script>
+    <script  src="js/rest.client.min.js"></script>
+    <script  src="js/pull.client.min.js"></script>
+    <script  src="js/dropzone.min.js"></script>
+    <script  src="js/main.popup.bundle.min.js"></script>
+    <script  src="js/script.js"></script>
 
     <!-- [  END  ] Скрипты библиотек-->
 
